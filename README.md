@@ -1,1 +1,1 @@
-# Guess-the-word
+# GuessTheWord
